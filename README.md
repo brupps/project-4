@@ -12,7 +12,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 
 ## Methodology
 1. Finding the data
-	- All of our data was found on <a href=”https://www.kaggle.com”>Kaggle.com</a>; we were able to directly export IMDB movie data as a single csv file
+	- All of our data was found on <a href="https://www.kaggle.com">Kaggle.com</a>; we were able to directly export IMDB movie data as a single csv file
 
 2. Cleaning the data
 	- Our data ending up having several missing/ null values across many columns, we opted to remove all the missing values, leaving us with ~5,000 rows

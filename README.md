@@ -32,7 +32,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 	- Cleaned the raw csv using pandas (removed unnecessary columns and extreme outliers) and exported the cleaned data as a csv into the resources folder
 
 
-#### Resources Folder
+### Resources Folder
 - **movies.csv**
 	- Our raw, uncleaned data exported from Kaggle; movie data, includes columns such as name, director, budget, revenue, etc.
 

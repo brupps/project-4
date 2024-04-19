@@ -6,9 +6,9 @@ The topic we have chosen is movie success rate based on percent of budget. The g
 ## Tableau Dashboard
 We created a beautiful Tableau dashboard showcasing our data; it gives a great overview in a clean and concise way!
 
-<a href=”LINK”>Link to the dashboard</a>
+<a href="https://public.tableau.com/app/profile/barb.rupps/viz/FinalProject_17133132619130/Story1?publish=yes">Link to the dashboard</a>
 
-![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/imagenamehere.PNG)
+![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/DashboardScreenshot.png)
 
 
 ## Methodology

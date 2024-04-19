@@ -56,6 +56,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 
 ## Presentation Slides
 Our final presentation displaying the entire project in a neat, aesthetically pleasing slide deck!
+
 	- <a href="https://www.canva.com/design/DAGCKADuW0c/rGow_eKabuBoLh1OqogbPA/edit?utm_content=DAGCKADuW0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link to the Canva slide deck</a>
 
 

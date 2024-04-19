@@ -1,7 +1,7 @@
 # Reel Success: A Deep Dive into Film Performance
 
 ## Description/Overview
-The topic we have chosen is movie success rate based on gross revenue. The goal of our project is to predict whether a movie will be successful based on profitability. We will be using several features in our predictive model such as rating, genre, director, etc.
+The topic we have chosen is movie success rate based on percent of budget. The goal of our project is to predict whether a movie will be successful based on profitability. We will be using several features in our predictive model such as rating, genre, director, etc.
 
 ## Tableau Dashboard
 We created a beautiful Tableau dashboard showcasing our data; it gives a great overview in a clean and concise way!
@@ -43,6 +43,9 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 ### Model Iterations
 - **movie_neural_network.ipynb**
 	- Tried building a neural network model; after several iterations changing features, target arrays, activations functions, etc. we ended with an optimal accuracy of ~58% (did not include as final model)
+
+- **logistic_regression_attempt**
+	- Tried building a logistic regression model; returned a ~49% accuracy score (did not include as final model)
 
 - **angie_predictions.ipynb**
 	- Tried linear regression and random forest; linear regression return an R-squared of 0.34 (did not reach >0.80), random forest model returned promising results so we continued more in depth work in a new notebook

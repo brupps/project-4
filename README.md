@@ -29,7 +29,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 
 ## Files
 - **data_cleaning.ipynb**
-	- Cleaned the raw csv using pandas (removed unnecessary columns and extreme outliers) and exported the cleaned data as a csv into the resources folder
+	- Cleaned the raw csv using spark and pandas (removed unnecessary columns and extreme outliers) and exported the cleaned data as a csv into the resources folder
 
 
 ### Resources Folder

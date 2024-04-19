@@ -5,7 +5,8 @@ The topic we have chosen is movie success rate based on gross revenue. The goal 
 
 ## Tableau Dashboard
 We created a beautiful Tableau dashboard showcasing our data; it gives a great overview in a clean and concise way!
-- <a href=”LINK”>Link to the dashboard</a>
+
+<a href=”LINK”>Link to the dashboard</a>
 
 ![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/imagenamehere.PNG)
 

@@ -40,7 +40,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 	- Cleaned movie data; excludes missing/ null values and extreme outliers
 
 
-### ***Model Iterations***
+## Model Iterations
 - **movie_neural_network.ipynb**
 	- Tried building a neural network model; after several iterations changing features, target arrays, activations functions, etc. we ended with an optimal accuracy of ~58% (did not include as final model)
 

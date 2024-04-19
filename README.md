@@ -6,6 +6,7 @@ The topic we have chosen is movie success rate based on gross revenue. The goal 
 ## Tableau Dashboard
 We created a beautiful Tableau dashboard showcasing our data; it gives a great overview in a clean and concise way!
 - <a href=”LINK”>Link to the dashboard</a>
+
 ![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/imagenamehere.PNG)
 
 
@@ -55,7 +56,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 
 ## Presentation Slides
 Our final presentation displaying the entire project in a neat, aesthetically pleasing slide deck!
-- <a href="https://www.canva.com/design/DAGCKADuW0c/rGow_eKabuBoLh1OqogbPA/edit?utm_content=DAGCKADuW0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link to the Canva slide deck</a>
+	- <a href="https://www.canva.com/design/DAGCKADuW0c/rGow_eKabuBoLh1OqogbPA/edit?utm_content=DAGCKADuW0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link to the Canva slide deck</a>
 
 
 ## Acknowledgements
@@ -66,8 +67,8 @@ Our final presentation displaying the entire project in a neat, aesthetically pl
 
 
 ## Resources
-- <a href=”https://www.kaggle.com/datasets/danielgrijalvas/movies”>IMDB movie data</a>
-- <a href=”https://medium.com/analytics-vidhya/how-to-use-machine-learning-approach-to-predict-movie-box-office-revenue-success-e2e688669972”>Movie project example 1</a>
-- <a href=”https://ryan-anderson-ds.medium.com/what-makes-a-successful-film-predicting-a-films-revenue-and-user-rating-with-machine-learning-e2d1b42365e7”>Movie project example 2</a>
+- <a href="https://www.kaggle.com/datasets/danielgrijalvas/movies">IMDB movie data</a>
+- <a href="https://medium.com/analytics-vidhya/how-to-use-machine-learning-approach-to-predict-movie-box-office-revenue-success-e2e688669972">Movie project example 1</a>
+- <a href="https://ryan-anderson-ds.medium.com/what-makes-a-successful-film-predicting-a-films-revenue-and-user-rating-with-machine-learning-e2d1b42365e7">Movie project example 2</a>
 - <a href="https://screenrant.com/the-creator-budget-box-office-prediction/#:~:text=It%20is%20usually%20estimated%20that,would%20be%20twice%20the%20cost">Profit definition</a>
-- <a href=”https://scikit-learn.org/stable/auto_examples/ensemble/index.html”>Ensemble Documentation</a>
+- <a href="https://scikit-learn.org/stable/auto_examples/ensemble/index.html">Ensemble Documentation</a>

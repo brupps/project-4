@@ -1,14 +1,14 @@
 # Reel Success: A Deep Dive into Film Performance
 
 ## Description/Overview
-The topic we have chosen is movie success rate based on percent of budget. The goal of our project is to predict whether a movie will be successful based on profitability. We will be using several features in our predictive model such as rating, genre, director, etc.
+The topic we have chosen is movie success rate based on the percentage of budget. The goal of our project is to predict whether a movie will be successful based on profitability. We will be using several features in our predictive model such as rating, genre, director, etc.
 
 ## Tableau Dashboard
-We created a beautiful Tableau dashboard showcasing our data; it gives a great overview in a clean and concise way!
+We created a beautiful Tableau dashboard showcasing our data; it gives a great overview in a clean and concise way! The dashboard allows the user to filter the data to focus on the data that they are interested in.
 
-<a href="https://public.tableau.com/app/profile/barb.rupps/viz/FinalProject_17133132619130/Dashboard1?publish=yes">Link to the dashboard</a>
+<a href="https://public.tableau.com/app/profile/barb.rupps/viz/FinalProject-2_17135647788850/Dashboard12?publish=yes">Link to the dashboard</a>
 
-![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/DashboardScreenshot.png)
+![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/Dashboard1.png)
 
 
 ## Methodology
@@ -16,15 +16,15 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 	- All of our data was found on <a href="https://www.kaggle.com">Kaggle.com</a>; we were able to directly export IMDB movie data as a single csv file
 
 2. Cleaning the data
-	- Our data ending up having several missing/ null values across many columns, we opted to remove all the missing values, leaving us with ~5,000 rows
-	- After the initial data cleaning we opted to removed four extreme outliers that greatly skewed the data
+	- Our data ended up having several missing/null values across many columns, we opted to remove all the missing values, leaving us with ~5,000 rows
+	- After the initial data cleaning we opted to remove four extreme outliers that greatly skewed the data
 
 3. Testing different models
-	- Initially, we were unsure what model would be the best fit for our data/ goal so we tested out four different models: linear regression, gradient boost, random forest and neural network
+	- Initially, we were unsure what model would be the best fit for our data/goal so we tested out four different models: linear regression, gradient boost, random forest, and neural network
 	- The random forest model seemed to yield the highest accuracy score therefore we went with that one as the best choice
 
 4. Optimizing the chosen model
-	- After determining which model to use (random forest) we then set out to optimize said model to achieve the highest accuracy score possible. We carefully selected only the necessary features, appropriate target array and encoded any categorical values as needed.
+	- After determining which model to use (random forest) we then set out to optimize said model to achieve the highest accuracy score possible. We carefully selected only the necessary features, appropriate target array, and encoded any categorical values as needed.
 
 
 ## Files
@@ -59,7 +59,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 
 
 ## Presentation Slides
-Our final presentation displaying the entire project in a neat, aesthetically pleasing slide deck!
+Our final presentation displays the entire project in a neat, aesthetically pleasing slide deck!
 
 <a href="https://www.canva.com/design/DAGCKADuW0c/rGow_eKabuBoLh1OqogbPA/edit?utm_content=DAGCKADuW0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link to the Canva slide deck</a>
 

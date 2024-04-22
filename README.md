@@ -20,7 +20,7 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 
 2. Cleaning the data
 	- Our data ended up having several missing/null values across many columns, we opted to remove all the missing values, leaving us with ~5,000 rows
-	- After the initial data cleaning we opted to remove four extreme outliers that greatly skewed the data
+	- After the initial data cleaning we opted to remove four extreme outliers that greatly skewed the data (Paranormal Activity (1,289,039 %), The Blair Witch Project (414,398%), The Gallows (42,964%) and El Mariachi(29,156%))
 
 3. Testing different models
 	- Initially, we were unsure what model would be the best fit for our data/goal so we tested out four different models: linear regression, gradient boost, random forest, and neural network

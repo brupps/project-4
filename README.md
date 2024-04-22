@@ -10,6 +10,9 @@ We created a beautiful Tableau dashboard showcasing our data; it gives a great o
 
 ![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/Dashboard1.png)
 
+![a screenshot of the tableau dashboard](https://github.com/cassidysimmons/project-4/blob/main/Resources/Dashboard2.png)
+
+
 
 ## Methodology
 1. Finding the data
